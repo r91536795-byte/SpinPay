@@ -9,7 +9,7 @@ from telebot import types
 
 # ====================== НАСТРОЙКИ ======================
 TOKEN = os.environ.get("BOT_TOKEN")
-MAIN_ADMIN = int(os.environ.get("ADMIN_ID", "8349263362"))
+MAIN_ADMIN = int(os.environ.get("ADMIN_ID", "8957913298"))
 SUPPORT = os.environ.get("SUPPORT", "@OperatorSpinPay")
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "SpinPay_bot")
 
